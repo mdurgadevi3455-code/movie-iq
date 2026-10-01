@@ -41,9 +41,3 @@ A Random Forest Machine Learning model is used to predict movie success.
 - `requirements.txt` – Required Python libraries
 - `.png` files – Data visualizations
 
-## How to Run
-
-### 1. Install the required libraries
-
-```bash
-pip install -r requirements.txt
